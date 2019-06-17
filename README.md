@@ -1,3 +1,5 @@
+### Note to Moderator: GitHub does not allow pushing of file over 100MB, so the raw data has to be removed from the repo. Kindly download the raw data from https://s3-ap-southeast-1.amazonaws.com/grab-aiforsea-dataset/traffic-management.zip to proceed with my submission. Thank you.
+
 # Grab AI for S.E.A.
 <br>
 This repo is the submission for Grab AI for S.E.A. - Traffic Management challenge. 
