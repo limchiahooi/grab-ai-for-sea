@@ -85,13 +85,17 @@ Since the challenge was announced, there has been several starter-kits made avai
 ---
 
 
+
 ## Visualization:
+
 
 
 ![clustering](clustering.png)
 
 
+
 ![lgbm_f](lgbm_f.png)
+
 
 
 ![xgb_f](xgb_f.png)
